@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "14783994104",
+    "firebase_url": "https://mappush-7952d.firebaseio.com",
+    "project_id": "mappush-7952d",
+    "storage_bucket": "mappush-7952d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14783994104:android:03c38c498c4b9c98",
+        "android_client_info": {
+          "package_name": "oneapplab.mappush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14783994104-jc5sirnj00np4ohts2soq72tbo8ika5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oneapplab.mappush",
+            "certificate_hash": "32fa13cbd8e5c200da7ab3943f7c4911d825c441"
+          }
+        },
+        {
+          "client_id": "14783994104-17pi6svviavt8op6f9vd2smd2flai47r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoH_4-b0Cz6RHwjG6dqnnObe6SH0BEypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14783994104-17pi6svviavt8op6f9vd2smd2flai47r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
